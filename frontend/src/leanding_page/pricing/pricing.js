@@ -1,13 +1,10 @@
 import React from 'react';
-
+import Hero from './hero.js';
 
 function PricingPage() {
     return ( 
         <>
-            <h1>price</h1>
-            <h1>price</h1>
-            <h1>price</h1>
-            <h1>price</h1>
+            <Hero></Hero>
         </>
      );
 }
